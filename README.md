@@ -1,5 +1,5 @@
 Role: **AI & Python Curriculum Developer**  \
-Company: [**iD Tech Camps**](https://www.idtech.com/) in collaboration with [**NVIDIA**](https://www.meta.com/) & [**University of Pennsylvania**](https://www.upenn.edu/)\
+Company: [**iD Tech Camps**](https://www.idtech.com/) in collaboration with [**NVIDIA**](https://www.nvidia.com/en-us/) & [**University of Pennsylvania**](https://www.upenn.edu/)\
 Location: **New York, USA** \
 [Presentation](https://www.canva.com/design/DAFsd75dba0/5gOicg6fFQAqyVAHHfTYeg/view?)
 
