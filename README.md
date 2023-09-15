@@ -15,3 +15,4 @@ Developed and tested curriculum for Python and AI courses for 500+ US and intern
 3. TensorFlow · Machine Learning
 4. Artificial Intelligence (AI)
 5. Python (Programming Language)
+6. Game Development
